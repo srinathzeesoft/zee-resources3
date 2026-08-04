@@ -1,7 +1,7 @@
 Mkt3L10n.AccountAnalyzerChart = {
   Trend: "Tendência test cccccccccccccc cccccccccccccccc cccccccccccccccccc cccccccccccccccccc",
   Opportunity: "Oportunidade mmmmmmmmm mmmmmmmmmmm mmmmmmmmmmmmm mmmmmmmmmmmmmm mm mm mm  mmm",
-  Interactions: "Interações fdsfsafa fsafdsafa dfsafdsafsa vsadvfdsva tretw rewuruiw dbjfdb",
+  Interactions: "Interações fdsfsafa fsafdsafa dfsafdsafsa vsadvfdsva tretw rewuruiw dbjfdb jjjjjj jj jj jjj jj jj jj",
   Week_Of_Date_Interaction: "<b>Semana de {0} - ({1} interação{2})</b> tretw rewuruiw dbjfdb rtrtr ghugkjg",
   Date_Interaction: "<b>{0} - ({1} interação{2})</b> sssss hhhhhhhh",
   Interactions_Cumulative_: "Interações (cumulativo) gdfgdg gfdhfdh bfdbfdhbfdh"
