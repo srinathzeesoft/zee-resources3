@@ -7,7 +7,7 @@ Mkt3L10n.AccountAnalyzerChart = {
   Interactions_Cumulative_: "Interações (cumulativo) gdfgdg gfdhfdh bfdbfdhbfdh"
 };
 Mkt3L10n.analytics = {
-  N_A: "N/D",
+  N_A: "N/D test test ggg fdfdjk onknfd bjbkfd",
   Count_of_Leads_in_Smart_List: "Contagem de leads na lista inteligente",
   Add_Custom_Column: "Adicionar coluna personalizada",
   Save_As: "Salvar como...",
